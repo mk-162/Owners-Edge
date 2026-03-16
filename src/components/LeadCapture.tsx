@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { motion } from 'framer-motion';
+import { motion } from 'motion/react';
 import { ArrowRight, Lock, ShieldCheck } from 'lucide-react';
 
 interface LeadCaptureProps {
